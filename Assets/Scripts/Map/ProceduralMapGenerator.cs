@@ -31,10 +31,6 @@ namespace Game.Map
         
         
         [Header("Prefabs")]
-        public GameObject pathPrefab;
-        public GameObject pathPrefabV2;
-        public GameObject blockPrefab;
-        public GameObject blockPrefabV2;
         public GameObject startPrefab;
         public GameObject endPrefab;
         public Material perlinNoiseMaterial;
